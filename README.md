@@ -4,10 +4,10 @@ Für das Modul Generative Computergrafik an der Hochschule RheinMain wurde ein O
 auskommen soll.
 - ein texturiertes Modell, welches als obj-File mit mtlFile und passender Textur gespeichert ist, soll eingelesen und dargestellt werden
 - über folgende Tasten sind Änderungen am Modell möglich
- - T Texturen an und aus zu schalten
- - S Darstellungsart Solid (gefüllt)
- - W Darstellungsart Wireframe (Drahtgittermodell)
- - P Darstellungsart Points (Punkte)
+ - **T** Texturen an und ausschalten
+ - **S** Darstellungsart Solid (gefüllt)
+ - **W** Darstellungsart Wireframe (Drahtgittermodell)
+ - **P** Darstellungsart Points (Punkte)
 
 # Anleitung
 Es wurden zwei Shader Viewer implementiert.
