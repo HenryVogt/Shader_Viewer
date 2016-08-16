@@ -19,5 +19,5 @@ Zum ausführen können folgende Kommandos genutzt werden:
 '''python multiShaderViewer.py objectfile.obj objectfile.obj'''
 
 # Screenshot
-(https://github.com/HenryVogt/Shader_Viewer/blob/master/images/deadpool.PNG)
+![Screenshot](https://github.com/HenryVogt/Shader_Viewer/blob/master/images/deadpool.PNG)
 
