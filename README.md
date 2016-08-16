@@ -9,7 +9,7 @@ auskommen soll.
  - **W** Darstellungsart Wireframe (Drahtgittermodell)
  - **P** Darstellungsart Points (Punkte)
 
-# Anleitung
+# Hinweise
 Es wurden zwei Shader Viewer implementiert.
 - simpleShaderViewer.py für ein einzelnes Modell
 - multiShaderViewer.py für zwei Modelle (Umschalten mit **1** und **2**)
