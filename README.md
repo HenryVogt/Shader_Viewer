@@ -15,10 +15,10 @@ Es wurden zwei Shader Viewer implementiert.
 - multiShaderViewer.py für zwei Modell (Umschalten mit 1 und 2)
 
 Zum ausführen können folgende Kommandos genutzt werden:
-'''
+````
 python simpleShaderViewer.py objectfile.obj
 python multiShaderViewer.py objectfile.obj objectfile.obj
-'''
+````
 
 # Screenshot
 ![Screenshot](https://github.com/HenryVogt/Shader_Viewer/blob/master/images/deadpool.PNG)
