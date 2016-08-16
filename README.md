@@ -12,7 +12,7 @@ auskommen soll.
 # Anleitung
 Es wurden zwei Shader Viewer implementiert.
 - simpleShaderViewer.py für ein einzelnes Modell
-- multiShaderViewer.py für zwei Modell (Umschalten mit 1 und 2)
+- multiShaderViewer.py für zwei Modelle (Umschalten mit **1** und **2**)
 
 Zum ausführen können folgende Kommandos genutzt werden:
 ````
